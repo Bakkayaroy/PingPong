@@ -1,0 +1,18 @@
+{
+    "name": "Gist.Containers.ProceduralUIImage.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cffb112271f7f674aacac266a3c7c3dd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

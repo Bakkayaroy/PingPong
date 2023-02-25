@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74341e71b8e8b724a921866eeb5b39b4, type: 3}
+  m_Name: BallData 5
+  m_EditorClassIdentifier: 
+  _id: d77628ec-ae77-4eb7-808c-1c8dd998677f
+  Icon: {fileID: 21300000, guid: dd7b94da883cc2b449770865d55f0874, type: 3}
+  Material: {fileID: 2100000, guid: 36bce9ab6cae8ce43962938466458044, type: 2}

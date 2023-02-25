@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Pavel Bakurov",
+    "email": "pavel.bakurov@gmail.com",
+    "url": "http://farious.studio/"
+  },
+  "name": "gist.containers.proceduraluiimage",
+  "displayName": "Procedural UI Image Container",
+  "version": "1.0.1",
+  "unity": "2020.3",
+  "dependencies": {}
+}
